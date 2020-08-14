@@ -1,11 +1,23 @@
-# ![](https://github.com/LuanGDantas/Ecoleta/master/assets/thumbnail.png "Banner Proffys")
+# ![](https://github.com/LuanGDantas/Proffy/blob/master/assets/thumbnail.png "Banner Proffys")
 
 <p align="center"'>
   <a href="#-sobre">Sobre</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;   
   <a href="#-tecnologias">Tecnologias</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;   
-  <a href="#-como-utilizar">Como utilizar</a> 
+  <a href="#-como-utilizar">Como utilizar</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;   
+  <a href="#-licença">Licença</a> 
+</p>
+                  
+<p align="center"'>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LuanGDantas/Proffy?color=BlueViolet&style=flat-square">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/LuanGDantas/Proffy?color=BlueViolet">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LuanGDantas/Proffy?color=BlueViolet">
+  <a href="https://www.linkedin.com/in/luan-guilherme-dantas-3a57a3130/ ">
+    <img alt="made by" src="https://img.shields.io/badge/made%20by-LuanGDantas-BlueViolet"> 
+  </a>
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/LuanGDantas/Proffy?style=social">
 </p>
 
 ***
@@ -94,11 +106,11 @@ $ yarn
 ~~~
 Para executar o aplicativo em seu dispositivo, você precisa alterar a configuração de ip.
 
-[api.ts] (https://github.com/LuanDantas/Proffy/master/mobile/src/services/api.ts)
+[api.ts](https://github.com/LuanGDantas/Proffy/master/mobile/src/services/api.ts)
 `` `javascript
   baseURL: 'http://192.168.0.105:3333',
 `` `
-substitua 192.168.0.185 pelo ip da sua máquina.
+substitua 192.168.0.105 pelo ip da sua máquina.
 
 Agora com tudo no lugar, execute o aplicativo.
 ~~~shell
@@ -106,6 +118,12 @@ Agora com tudo no lugar, execute o aplicativo.
 $ yarn start
 ~~~
 
+***
+## 📝 Licença
+
+Este projeto está sob a licença do MIT. Consulte a [LICENÇA](./LICENSE.md) para obter mais informações.
+
+***
 ## 📬 Entrar em contato!
 <p align="center"'>
   <a href="https://www.linkedin.com/in/luan-guilherme-dantas-3a57a3130/" rel="nofollow">
