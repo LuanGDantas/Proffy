@@ -1,4 +1,4 @@
-# ![](https://github.com/LuanGDantas/Ecoleta/blob/master/assets/thumbnail.png "Banner Proffys")
+# ![](https://github.com/LuanGDantas/Ecoleta/master/assets/thumbnail.png "Banner Proffys")
 
 <p align="center"'>
   <a href="#-sobre">Sobre</a>
@@ -94,7 +94,7 @@ $ yarn
 ~~~
 Para executar o aplicativo em seu dispositivo, você precisa alterar a configuração de ip.
 
-[api.ts] (https://github.com/LuanDantas/Proffy/blob/master/mobile/src/services/api.ts)
+[api.ts] (https://github.com/LuanDantas/Proffy/master/mobile/src/services/api.ts)
 `` `javascript
   baseURL: 'http://192.168.0.105:3333',
 `` `
