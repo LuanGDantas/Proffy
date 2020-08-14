@@ -12,12 +12,13 @@
                   
 <p align="center"'>
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LuanGDantas/Proffy?color=BlueViolet&style=flat-square">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/LuanGDantas/Proffy?color=BlueViolet">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LuanGDantas/Proffy?color=BlueViolet">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/LuanGDantas/Proffy?color=BlueViolet&style=flat-square">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LuanGDantas/Proffy?color=BlueViolet&style=flat-square">
   <a href="https://www.linkedin.com/in/luan-guilherme-dantas-3a57a3130/ ">
-    <img alt="made by" src="https://img.shields.io/badge/made%20by-LuanGDantas-BlueViolet"> 
+    <img alt="made by" src="https://img.shields.io/badge/made%20by-LuanGDantas-BlueViolet?style=flat-square"> 
   </a>
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/LuanGDantas/Proffy?style=social">
+  <img alt="GitHub license" src"https://img.shields.io/badge/license-MIT-BlueViolet?style=flat-square" >
+  <img alt="GitHub stars" src="https://img.shields.io/badge/license-MIT-blueviolet?style=flat-square">
 </p>
 
 ***
