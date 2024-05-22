@@ -25,7 +25,7 @@
 
 ## 🔖 Sobre
 <p align="justify"'>
-O Ecoleta é uma aplicação Web e Mobile que conectar pessoas (alunos e professores) que deseja estudar ou dar aulas. Qualquer usuário pode escolher ambas opções.  
+O Proffy é uma aplicação Web e Mobile que conectar pessoas (alunos e professores) que deseja estudar ou dar aulas. Qualquer usuário pode escolher ambas opções.  
 </p> 
 <p align="justify"'>                   
 Caso escolham "Dar aula" informam seus dados, a matéria que quer ensinar, e escolher o melhor horário para dar a sua aula. Assim, os dados cadastrados ficaram disponíveis no site onde alunos podem escolher o professor que melhor se encaixa na em suas preferências.
